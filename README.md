@@ -4,7 +4,7 @@ _Software developer based in Manchester_.
 
 _I Graduated from the University of Manchester and have been in the industry for the last three years. I am currently looking for a role where I can be an integral part of a team._
 
-[Email](mailto:muhammadusama02@hotmail.co.uk) / [Website](https://usamaa9.github.io/) / [LinkedIn](https://www.linkedin.com/in/mh-usama/) / [GitHub](https://github.com/usamaa9/)
+[Email](mailto:muhammadusama02@hotmail.co.uk) / [Website](https://usamaa9.github.io/cv) / [LinkedIn](https://www.linkedin.com/in/mh-usama/) / [GitHub](https://github.com/usamaa9/)
 
 ## 👨🏽‍💻 Experience
 
@@ -15,21 +15,20 @@ As a Services Developer at Pets at Home, I took ownership of enterprise-level in
 
 - Developing intermediate APIs which handle all of the orchestration and combining of different data sources and APIs for the front end team so they only need to talk to one API for all their requirements
 - Building and maintaining common projects so the rest of the back-end teams can quickly set up new APIs with the right enterprise standards
-
 - **Technologies used:** ASP.NET Core 6 Web API, C#, Docker, Azure, Pipelines, [MediatR](https://github.com/jbogard/MediatR) with CQRS pattern, [Mapster](https://github.com/MapsterMapper/Mapster), [Bogus](https://github.com/bchavez/Bogus), [Swagger](https://swagger.io/), [Specflow+ LivingDoc](https://specflow.org/)
-
-
 
 <br>
 
 **Analyst Programmer** @ [Tessella](https://www.tessella.com/) _(Sep 2019 - Nov 2021)_ <br>
 Tech consultancy now Hybrid Intelligence in Capegemini Engineering
 
-As an Analyst Programmer, I worked on multiple support and development projects for clients in the Oil and Gas, Pharmaceutical, and consumer goods industries. In this role, I communicated directly with stakeholders to understand requirements and generate user stories and estimates. I was responsible for developing new features and enhancements for existing products, and deploying them using Continuous Integration tools such as TeamCity and Azure DevOps.
-
-I developed Python and R packages to enable clients to ingest data and conduct analysis on a bespoke data platform, and created Power Apps to allow for easy data entry in remote areas.
-
-I also took initiative to improve the code base and reduce technical debt throughout development.
+Worked on multiple projects, both support and development, running in parallel with 5+ clients in several domains such as Oil and Gas,
+Pharmaceutical and consumer goods
+- Communicated directly with stake holders to understand requirements and use cases to generate user stories and estimates
+- Developed new features and enhancements to current products to support client needs
+- Took responsibility for deployment to multiple environments by using Continuous Integration tools such as TeamCity and Azure DevOps
+- Developed Python and R packages which enabled client to ingest data and conduct analysis on a bespoke data platform
+- Created Power Apps to allow client ease of data entry in remote areas
 
 **Technologies used:** C#, Python, R, Docker, JavaScript, SQL Server, MySQL, Docker, Azure, Power Apps, Power Automate, AWS
 <br><br>
