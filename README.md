@@ -24,7 +24,9 @@ Tech consultancy now [Hybrid Intelligence in Capegemini Engineering](https://www
 
 As an Analyst Programmer, I worked on multiple support and development projects for clients in the Oil and Gas, Pharmaceutical, and consumer goods industries. In this role, I communicated directly with stakeholders to understand requirements and generate user stories and estimates. I was responsible for developing new features and enhancements for existing products, and deploying them using Continuous Integration tools such as TeamCity and Azure DevOps.
 
-I also took initiative to improve the code base and reduce technical debt throughout development. I developed Python and R packages to enable clients to ingest data and conduct analysis on a bespoke data platform, and created Power Apps to allow for easy data entry in remote areas.
+I developed Python and R packages to enable clients to ingest data and conduct analysis on a bespoke data platform, and created Power Apps to allow for easy data entry in remote areas.
+
+I also took initiative to improve the code base and reduce technical debt throughout development.
 
 **Technologies used:** C#, Python, R, Docker, JavaScript, SQL Server, MySQL, Docker, Azure, Power Apps, Power Automate, AWS
 <br><br>
