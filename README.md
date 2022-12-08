@@ -9,7 +9,7 @@ _I Graduated from the University of Manchester and have been in the industry for
 ## 👨🏽‍💻 Experience
 
 **Services developer** @ [Pets at Home](https://www.petsathome.com/) _(Nov 2021 - Present)_ <br>
-UK's leading pet care business, providing food, toys and bedding, grooming services and veterinary services.
+_UK's leading pet care business, providing food, toys and bedding, grooming services and veterinary services._
 
 As a Services Developer at Pets at Home, I took ownership of enterprise-level internal systems and developed APIs for providing customer and product data. I also created Azure DevOps pipelines, containerized front-end apps using Docker, and advocated for a shift to business-driven requirements.
 
@@ -21,7 +21,7 @@ As a Services Developer at Pets at Home, I took ownership of enterprise-level in
 <br>
 
 **Analyst Programmer** @ [Tessella](https://www.tessella.com/) _(Sep 2019 - Nov 2021)_ <br>
-Tech consultancy now Hybrid Intelligence in Capegemini Engineering
+_Tech consultancy now Hybrid Intelligence in Capegemini Engineering_
 
 Worked on multiple projects, both support and development, running in parallel with 5+ clients in several domains such as Oil and Gas,
 Pharmaceutical and consumer goods
@@ -46,7 +46,7 @@ I am using Django to create this website and will be hosting it on Azure.
 ## 👨🏽‍🎓 Education
 
 **MMath&Phys(Hons)** in Mathematics and Physics (_First class_) <br>
-[University of Manchester](https://www.manchester.ac.uk/) - Manchester, UK _(2015 - 2019)_ <br>
+_[University of Manchester](https://www.manchester.ac.uk/) - Manchester, UK (2015 - 2019)_ <br>
 **Masters Project**: _Modelling internal flow of an immiscible droplet subject to a shear flow._
 
 In this project, I developed an algorithm in MATLAB to analyze 20,000 images obtained from an experiment. I also formulated a mathematical model for the fluid flow, including surfactant kinematics, to simulate experimental results. My work on this project recognized the direct impact on fluid flow applications concerning Superhydrophobic surfaces and decontamination processes.
