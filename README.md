@@ -31,6 +31,15 @@ I also took initiative to improve the code base and reduce technical debt throug
 **Technologies used:** C#, Python, R, Docker, JavaScript, SQL Server, MySQL, Docker, Azure, Power Apps, Power Automate, AWS
 <br><br>
 
+## 🥽Personal Projects
+### 🚗 Whiplog
+
+Whiplog is the ultimate tool for managing your vehicle's road tax, MOT, and insurance. Simply create an account, add your vehicle's registration number, and we'll will fetch and store the current road tax and MOT status for each car. You can also add insurance details and set up reminders for when your tax, MOT, and insurance expire.
+
+I am using Django to create this website and will be hosting it on Azure.
+<br><br>
+
+
 ## 👨🏽‍🎓 Education
 
 **MMath&Phys(Hons)** in Mathematics and Physics (_First class_) <br>
@@ -46,3 +55,7 @@ In this project, I developed an algorithm in MATLAB to analyze 20,000 images obt
 **Urdu**: Native <br>
 **Punjabi**: Native
 <br><br>
+
+## 🏀✈️Hobbies & Interest
+In my free time I love to play sports and travel.
+
