@@ -2,8 +2,6 @@
 
 _Software developer based in Manchester_.
 
-_I Graduated from the University of Manchester and have been in the industry for the last three years. I am currently looking for a role where I can be an integral part of a team._
-
 [Email](mailto:muhammadusama02@hotmail.co.uk) / [Website](https://usamaa9.github.io/cv) / [LinkedIn](https://www.linkedin.com/in/mh-usama/) / [GitHub](https://github.com/usamaa9/)
 
 ## 👨🏽‍💻 Experience
