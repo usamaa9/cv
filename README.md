@@ -31,7 +31,7 @@ Pharmaceutical and consumer goods
 - Developed Python and R packages which enabled client to ingest data and conduct analysis on a bespoke data platform
 - Created Power Apps to allow client ease of data entry in remote areas
 
-**Technologies used:** C#, Python, R, Docker, JavaScript, SQL Server, MySQL, Docker, Azure, Power Apps, Power Automate, AWS
+**Technologies used:** C#, Python, R, Docker, JavaScript, SQL Server, MySQL, Azure, Power Apps, Power Automate, AWS
 <br><br>
 
 ## 🥽Personal Projects
