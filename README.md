@@ -14,18 +14,12 @@ Taking ownership of enterprise-level internal systems to provide a unique identi
 **Responsibilities:**
 
 - Developing APIs for providing customer and product data to the rest of the business
-
 - Developing intermediate APIs which handle all of the orchestration and combining of different data sources and APIs for the front end team so they only need to talk to one API for all their requirements
-
 - Building and maintaining common projects so the rest of the back-end teams can quickly set up new APIs with the right enterprise standards
-
 - Created an Azure DevOps pipeline to build, test, and publish an Azure DevOps extension to Visual Studio marketplace and share with our organisation
-
 - Containerised the front-end apps using Docker so they can be tested in the CI stage of deployment with testing tools such as [cypress](https://www.cypress.io/) and [lighthouse](https://github.com/GoogleChrome/lighthouse#readme)
-
 - Recognized the issues with the current requirement procurement process and advocated for a shift to business-driven requirements rather than solution-driven requirements
 <!-- This approach streamlined the procurement phase as the Product Owner could focus on the business requirements rather than how they should be implemented. It also allowed for faster development as it empowered the development team to implement the business logic with the best solution rather than what was decided in the requirements. -->
-
 - **_Technologies used:_** ASP.NET Core 6 Web API, C#, Docker, Node.js, Azure, Pipelines
   <br><br>
 
@@ -42,7 +36,6 @@ Pharmaceutical and consumer goods
 - Took responsibility for deployment to multiple environments by using Continuous Integration tools such as TeamCity and Azure DevOps
 - Took initiative to improve code base throughout development to reduce technical debt
 - Developed Python and R packages which enabled client to ingest data and conduct analysis on a bespoke data platform
-
 - Created Power Apps to allow client ease of data entry in remote areas
 - **_Technologies used:_** C#, Python, R, Docker, JavaScript, SQL Server, MySQL, Docker, Azure, Power Apps, Power Automate, AWS
 
