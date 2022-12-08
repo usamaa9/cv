@@ -26,7 +26,7 @@ Taking ownership of enterprise-level internal systems to provide a unique identi
 - Recognized the issues with the current requirement procurement process and advocated for a shift to business-driven requirements rather than solution-driven requirements
 <!-- This approach streamlined the procurement phase as the Product Owner could focus on the business requirements rather than how they should be implemented. It also allowed for faster development as it empowered the development team to implement the business logic with the best solution rather than what was decided in the requirements. -->
 
-- **_Technologies used:_** ASP.NET Core 6 Web API, C#, Docker, Node.js. MediatR with CQRS pattern, Specflow, Mapster, Bogus, Swagger, Azure (App Service, Functions, CosmosDB, Cognitive Search), Azure DevOps Pipelines
+- **_Technologies used:_** ASP.NET Core 6 Web API, C#, Docker, Node.js, Azure, Pipelines
   <br><br>
 
 **Analyst Programmer** @ [Tessella](https://www.tessella.com/) _(Sep 2019 - Nov 2021)_ <br>
@@ -44,7 +44,7 @@ Pharmaceutical and consumer goods
 - Developed Python and R packages which enabled client to ingest data and conduct analysis on a bespoke data platform
 
 - Created Power Apps to allow client ease of data entry in remote areas
-- **_Technologies used:_** C#, Python, R, Docker, JavaScript, SQL Server, MySQL, Docker, Azure (Functions, Service Bus, Storage Account, Queues, Logic Apps, CosmosDB, Alerts), Power Apps, Power Automate, AWS
+- **_Technologies used:_** C#, Python, R, Docker, JavaScript, SQL Server, MySQL, Docker, Azure, Power Apps, Power Automate, AWS
 
 ## 💬 Languages
 
