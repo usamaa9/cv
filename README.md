@@ -1,6 +1,8 @@
 # Muhammad Usama
 
-_Software developer based in Manchester_
+_Software developer based in Manchester_.
+
+_I Graduated from the University of Manchester and have been in the industry for the last three years. I am currently looking for a role where I can be an integral part of a team._
 
 [Email](mailto:muhammadusama02@hotmail.co.uk) / [Website](https://usamaa9.github.io/) / [LinkedIn](https://www.linkedin.com/in/mh-usama/) / [GitHub](https://github.com/usamaa9/)
 
@@ -9,35 +11,22 @@ _Software developer based in Manchester_
 **Services developer** @ [Pets at Home](https://www.petsathome.com/) _(Nov 2021 - Present)_ <br>
 Pets at Home is the UK's leading pet care business, providing food, toys and bedding, grooming services and veterinary services.
 
-Taking ownership of enterprise-level internal systems to provide a unique identity for customers and products across the whole business. These systems are also responsible for setting the enterprise standard for how we develop APIs and services.
+As a Services Developer at Pets at Home, I took ownership of enterprise-level internal systems and developed APIs for providing customer and product data. I also created Azure DevOps pipelines, containerized front-end apps using Docker, and advocated for a shift to business-driven requirements.
 
-**Responsibilities:**
+**Technologies used:** ASP.NET Core 6 Web API, C#, Docker, Azure, Pipelines, [MediatR](https://github.com/jbogard/MediatR) with CQRS pattern, [Mapster](https://github.com/MapsterMapper/Mapster), [Bogus](https://github.com/bchavez/Bogus), [Swagger](https://swagger.io/), [Specflow+ LivingDoc](https://specflow.org/)
 
-- Developing APIs for providing customer and product data to the rest of the business
-- Developing intermediate APIs which handle all of the orchestration and combining of different data sources and APIs for the front end team so they only need to talk to one API for all their requirements
-- Building and maintaining common projects so the rest of the back-end teams can quickly set up new APIs with the right enterprise standards
-- Created an Azure DevOps pipeline to build, test, and publish an Azure DevOps extension to Visual Studio marketplace and share with our organisation
-- Containerised the front-end apps using Docker so they can be tested in the CI stage of deployment with testing tools such as cypress and lighthouse
-- Recognized the issues with the current requirement procurement process and advocated for a shift to business-driven requirements rather than solution-driven requirements<!-- This approach streamlined the procurement phase as the Product Owner could focus on the business requirements rather than how they should be implemented. It also allowed for faster development as it empowered the development team to implement the business logic with the best solution rather than what was decided in the requirements. -->
-- **_Technologies used:_** ASP.NET Core 6 Web API, C#, Docker, Azure, Pipelines
-    - [MediatR](https://github.com/jbogard/MediatR) and CQRS pattern, [Mapster](https://github.com/MapsterMapper/Mapster), [Bogus](https://github.com/bchavez/Bogus), [Swagger](https://swagger.io/), [Specflow+ LivingDoc](https://specflow.org/).
+
 
 <br>
 
 **Analyst Programmer** @ [Tessella](https://www.tessella.com/) _(Sep 2019 - Nov 2021)_ <br>
-Tech consultancy now at [Hybrid Intelligence in Capegemini Engineering](https://www.capgemini.com/gb-en/solutions/data-driven-rd-engineering-manufacturing-operations/).
+Tech consultancy now [Hybrid Intelligence in Capegemini Engineering](https://www.capgemini.com/gb-en/solutions/data-driven-rd-engineering-manufacturing-operations/).
 
-Worked on multiple projects, both support and development, running in parallel with 5+ clients in several domains such as Oil and Gas,
-Pharmaceutical and consumer goods
+As an Analyst Programmer, I worked on multiple support and development projects for clients in the Oil and Gas, Pharmaceutical, and consumer goods industries. In this role, I communicated directly with stakeholders to understand requirements and generate user stories and estimates. I was responsible for developing new features and enhancements for existing products, and deploying them using Continuous Integration tools such as TeamCity and Azure DevOps.
 
-**Responsibilities:**
-- Communicated directly with stake holders to understand requirements and use cases to generate user stories and estimates
-- Developed new features and enhancements to current products to support client needs
-- Took responsibility for deployment to multiple environments by using Continuous Integration tools such as TeamCity and Azure DevOps
-- Took initiative to improve code base throughout development to reduce technical debt
-- Developed Python and R packages which enabled client to ingest data and conduct analysis on a bespoke data platform
-- Created Power Apps to allow client ease of data entry in remote areas
-- **_Technologies used:_** C#, Python, R, Docker, JavaScript, SQL Server, MySQL, Docker, Azure, Power Apps, Power Automate, AWS
+I also took initiative to improve the code base and reduce technical debt throughout development. I developed Python and R packages to enable clients to ingest data and conduct analysis on a bespoke data platform, and created Power Apps to allow for easy data entry in remote areas.
+
+**Technologies used:** C#, Python, R, Docker, JavaScript, SQL Server, MySQL, Docker, Azure, Power Apps, Power Automate, AWS
 <br><br>
 
 ## 👨🏽‍🎓 Education
