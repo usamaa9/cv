@@ -15,11 +15,8 @@ As a Services Developer at Pets at Home, I took ownership of enterprise-level in
 
 - Developing intermediate APIs which handle all of the orchestration and combining of different data sources and APIs for the front end team so they only need to talk to one API for all their requirements
 - Building and maintaining common projects so the rest of the back-end teams can quickly set up new APIs with the right enterprise standards
-- Created an Azure DevOps pipeline to build, test, and publish an Azure DevOps extension to Visual Studio marketplace and share with our organisation
-- Containerised the front-end apps using Docker so they can be tested in the CI stage of deployment with testing tools such as cypress and lighthouse
-- Recognized the issues with the current requirement procurement process and advocated for a shift to business-driven requirements rather than solution-driven requirements
 
-**Technologies used:** ASP.NET Core 6 Web API, C#, Docker, Azure, Pipelines, [MediatR](https://github.com/jbogard/MediatR) with CQRS pattern, [Mapster](https://github.com/MapsterMapper/Mapster), [Bogus](https://github.com/bchavez/Bogus), [Swagger](https://swagger.io/), [Specflow+ LivingDoc](https://specflow.org/)
+- **Technologies used:** ASP.NET Core 6 Web API, C#, Docker, Azure, Pipelines, [MediatR](https://github.com/jbogard/MediatR) with CQRS pattern, [Mapster](https://github.com/MapsterMapper/Mapster), [Bogus](https://github.com/bchavez/Bogus), [Swagger](https://swagger.io/), [Specflow+ LivingDoc](https://specflow.org/)
 
 
 
