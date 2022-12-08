@@ -35,11 +35,9 @@ I also took initiative to improve the code base and reduce technical debt throug
 
 **MMath&Phys(Hons)** in Mathematics and Physics (_First class_) <br>
 [University of Manchester](https://www.manchester.ac.uk/) - Manchester, UK _(2015 - 2019)_ <br>
-**Masters Project** (75%): _Modelling internal flow of an immiscible droplet subject to a shear flow._
+**Masters Project**: _Modelling internal flow of an immiscible droplet subject to a shear flow._
 
-- Developed an algorithm in MATLAB to analyse 20,000 images obtained from experiment
-- Formulated a mathematical model for the fluid flow including surfactant kinematics to simulate experimental results
-- Recognised the direct impact on fluid flow applications concerning Superhydrophobic surfaces and decontamination processes
+In this project, I developed an algorithm in MATLAB to analyze 20,000 images obtained from an experiment. I also formulated a mathematical model for the fluid flow, including surfactant kinematics, to simulate experimental results. My work on this project recognized the direct impact on fluid flow applications concerning Superhydrophobic surfaces and decontamination processes.
 <br><br>
 
 ## 💬 Languages
