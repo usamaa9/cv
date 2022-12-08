@@ -9,7 +9,7 @@ _I Graduated from the University of Manchester and have been in the industry for
 ## 👨🏽‍💻 Experience
 
 **Services developer** @ [Pets at Home](https://www.petsathome.com/) _(Nov 2021 - Present)_ <br>
-Pets at Home is the UK's leading pet care business, providing food, toys and bedding, grooming services and veterinary services.
+UK's leading pet care business, providing food, toys and bedding, grooming services and veterinary services.
 
 As a Services Developer at Pets at Home, I took ownership of enterprise-level internal systems and developed APIs for providing customer and product data. I also created Azure DevOps pipelines, containerized front-end apps using Docker, and advocated for a shift to business-driven requirements.
 
@@ -23,7 +23,7 @@ As a Services Developer at Pets at Home, I took ownership of enterprise-level in
 <br>
 
 **Analyst Programmer** @ [Tessella](https://www.tessella.com/) _(Sep 2019 - Nov 2021)_ <br>
-Tech consultancy now [Hybrid Intelligence in Capegemini Engineering](https://www.capgemini.com/gb-en/solutions/data-driven-rd-engineering-manufacturing-operations/).
+Tech consultancy now Hybrid Intelligence in Capegemini Engineering
 
 As an Analyst Programmer, I worked on multiple support and development projects for clients in the Oil and Gas, Pharmaceutical, and consumer goods industries. In this role, I communicated directly with stakeholders to understand requirements and generate user stories and estimates. I was responsible for developing new features and enhancements for existing products, and deploying them using Continuous Integration tools such as TeamCity and Azure DevOps.
 

@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>README.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="muhammad-usama">Muhammad Usama</h1>
+<p><em>Software developer based in Manchester</em>.</p>
+<p><em>I Graduated from the University of Manchester and have been in the industry for the last three years. I am currently looking for a role where I can be an integral part of a team.</em></p>
+<p><a href="mailto:muhammadusama02@hotmail.co.uk">Email</a> / <a href="https://usamaa9.github.io/">Website</a> / <a href="https://www.linkedin.com/in/mh-usama/">LinkedIn</a> / <a href="https://github.com/usamaa9/">GitHub</a></p>
+<h2 id="%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB-experience">👨🏽‍💻 Experience</h2>
+<p><strong>Services developer</strong> @ <a href="https://www.petsathome.com/">Pets at Home</a> <em>(Nov 2021 - Present)</em> <br>
+Pets at Home is the UK's leading pet care business, providing food, toys and bedding, grooming services and veterinary services.</p>
+<p>As a Services Developer at Pets at Home, I took ownership of enterprise-level internal systems and developed APIs for providing customer and product data. I also created Azure DevOps pipelines, containerized front-end apps using Docker, and advocated for a shift to business-driven requirements.</p>
+<ul>
+<li>
+<p>Developing intermediate APIs which handle all of the orchestration and combining of different data sources and APIs for the front end team so they only need to talk to one API for all their requirements</p>
+</li>
+<li>
+<p>Building and maintaining common projects so the rest of the back-end teams can quickly set up new APIs with the right enterprise standards</p>
+</li>
+<li>
+<p><strong>Technologies used:</strong> ASP.NET Core 6 Web API, C#, Docker, Azure, Pipelines, <a href="https://github.com/jbogard/MediatR">MediatR</a> with CQRS pattern, <a href="https://github.com/MapsterMapper/Mapster">Mapster</a>, <a href="https://github.com/bchavez/Bogus">Bogus</a>, <a href="https://swagger.io/">Swagger</a>, <a href="https://specflow.org/">Specflow+ LivingDoc</a></p>
+</li>
+</ul>
+<br>
+<p><strong>Analyst Programmer</strong> @ <a href="https://www.tessella.com/">Tessella</a> <em>(Sep 2019 - Nov 2021)</em> <br>
+Tech consultancy now <a href="https://www.capgemini.com/gb-en/solutions/data-driven-rd-engineering-manufacturing-operations/">Hybrid Intelligence in Capegemini Engineering</a>.</p>
+<p>As an Analyst Programmer, I worked on multiple support and development projects for clients in the Oil and Gas, Pharmaceutical, and consumer goods industries. In this role, I communicated directly with stakeholders to understand requirements and generate user stories and estimates. I was responsible for developing new features and enhancements for existing products, and deploying them using Continuous Integration tools such as TeamCity and Azure DevOps.</p>
+<p>I developed Python and R packages to enable clients to ingest data and conduct analysis on a bespoke data platform, and created Power Apps to allow for easy data entry in remote areas.</p>
+<p>I also took initiative to improve the code base and reduce technical debt throughout development.</p>
+<p><strong>Technologies used:</strong> C#, Python, R, Docker, JavaScript, SQL Server, MySQL, Docker, Azure, Power Apps, Power Automate, AWS
+<br><br></p>
+<h2 id="%F0%9F%A5%BDpersonal-projects">🥽Personal Projects</h2>
+<h3 id="%F0%9F%9A%97-whiplog">🚗 Whiplog</h3>
+<p>Whiplog is the ultimate tool for managing your vehicle's road tax, MOT, and insurance. Simply create an account, add your vehicle's registration number, and we'll will fetch and store the current road tax and MOT status for each car. You can also add insurance details and set up reminders for when your tax, MOT, and insurance expire.</p>
+<p>I am using Django to create this website and will be hosting it on Azure.
+<br><br></p>
+<h2 id="%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%8E%93-education">👨🏽‍🎓 Education</h2>
+<p><strong>MMath&amp;Phys(Hons)</strong> in Mathematics and Physics (<em>First class</em>) <br>
+<a href="https://www.manchester.ac.uk/">University of Manchester</a> - Manchester, UK <em>(2015 - 2019)</em> <br>
+<strong>Masters Project</strong>: <em>Modelling internal flow of an immiscible droplet subject to a shear flow.</em></p>
+<p>In this project, I developed an algorithm in MATLAB to analyze 20,000 images obtained from an experiment. I also formulated a mathematical model for the fluid flow, including surfactant kinematics, to simulate experimental results. My work on this project recognized the direct impact on fluid flow applications concerning Superhydrophobic surfaces and decontamination processes.
+<br><br></p>
+<h2 id="%F0%9F%92%AC-languages">💬 Languages</h2>
+<p><strong>English</strong>: Native <br>
+<strong>Urdu</strong>: Native <br>
+<strong>Punjabi</strong>: Native
+<br><br></p>
+<h2 id="%F0%9F%8F%80%E2%9C%88%EF%B8%8Fhobbies--interest">🏀✈️Hobbies &amp; Interest</h2>
+<p>In my free time I love to play sports and travel.</p>
+
+</body>
+</html>
