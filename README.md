@@ -2,7 +2,7 @@
 
 _Software developer based in Manchester_.
 
-[Email](mailto:muhammadusama02@hotmail.co.uk) / [Website](https://usamaa9.github.io/cv) / [LinkedIn](https://www.linkedin.com/in/mh-usama/) / [GitHub](https://github.com/usamaa9/)
+[Email](mailto:muhammadusama02@hotmail.co.uk) / [Website](https://usamaa9.github.io) / [LinkedIn](https://www.linkedin.com/in/mh-usama/) / [GitHub](https://github.com/usamaa9/)
 
 ## 👨🏽‍💻 Experience
 
