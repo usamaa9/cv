@@ -57,6 +57,6 @@ In this project, I developed an algorithm in MATLAB to analyze 20,000 images obt
 **Punjabi**: Native
 <br><br>
 
-## 🏀✈️Hobbies & Interest
+## 🏀✈️ Hobbies & Interest
 In my free time, I love to play sports and travel.
 
