@@ -1,54 +1,59 @@
 # Muhammad Usama
 
-_Software developer based in Manchester_.
+_Software developer based in Manchester_
 
-[Email](mailto:muhammadusama02@hotmail.co.uk) / [Website](https://usamaa9.github.io) / [LinkedIn](https://www.linkedin.com/in/mh-usama/) / [GitHub](https://github.com/usamaa9/)
+[Email](mailto:muhammadusama02@hotmail.co.uk) / [Website](https://usamaa9.github.io/) / [LinkedIn](https://www.linkedin.com/in/mh-usama/) / [GitHub](https://github.com/usamaa9/)
 
 ## 👨🏽‍💻 Experience
 
-**Services developer** @ [Pets at Home](https://www.petsathome.com/) _(Nov 2021 - Present)_ <br>
-_UK's leading pet care business, providing food, toys and bedding, grooming services, and veterinary services._
+**Software Engineer** @ [Outthink](https://outthink.io/) _(March 2023 - Present)_
 
-As a Services Developer at Pets at Home, I took ownership of enterprise-level internal systems and developed APIs for providing customer and product data. I also created Azure DevOps pipelines, containerized front-end apps using Docker, and advocated for a shift to business-driven requirements.
+OutThink revolutionises security awareness training by using data science and machine learning to measure human risk, automate improvement actions, and deliver targeted training and phishing simulations, based on employees' attitudes and security behaviours.
 
-- Developing intermediate APIs which handle all of the orchestration and combining of different data sources and APIs for the front-end team so they only need to talk to one API for all their requirements
+Working on multiple projects spanning backend systems and data analytics using .NET and python.
+
+- **_Technologies used:_** ASP.NET Core 6 Web API, C#, Python, Azure Synapse, ADLS
+  <br><br>
+
+**Services developer** @ [Pets at Home](https://www.petsathome.com/) _(Nov 2021 - March 2023)_ <br>
+Pets at Home is the UK's leading pet care business, providing food, toys and bedding, grooming services and veterinary services.
+
+Taking ownership of enterprise-level internal systems to provide a unique identity for customers and products across the whole business. These systems are also responsible for setting the enterprise standard for how we develop APIs and services.
+
+**Responsibilities:**
+
+- Developing APIs for providing customer and product data to the rest of the business
+
+- Developing intermediate APIs which handle all of the orchestration and combining of different data sources and APIs for the front end team so they only need to talk to one API for all their requirements
+
 - Building and maintaining common projects so the rest of the back-end teams can quickly set up new APIs with the right enterprise standards
 
-**Technologies used:** ASP.NET Core 6 Web API, C#, Docker, Azure, Pipelines, [MediatR](https://github.com/jbogard/MediatR) with CQRS pattern, [Mapster](https://github.com/MapsterMapper/Mapster), [Bogus](https://github.com/bchavez/Bogus), [Swagger](https://swagger.io/), [Specflow+ LivingDoc](https://specflow.org/)
+- Created an Azure DevOps pipeline to build, test, and publish an Azure DevOps extension to Visual Studio marketplace and share with our organisation
 
-<br>
+- Containerised the front-end apps using Docker so they can be tested in the CI stage of deployment with testing tools such as [cypress](https://www.cypress.io/) and [lighthouse](https://github.com/GoogleChrome/lighthouse#readme)
+
+- Recognized the issues with the current requirement procurement process and advocated for a shift to business-driven requirements rather than solution-driven requirements
+<!-- This approach streamlined the procurement phase as the Product Owner could focus on the business requirements rather than how they should be implemented. It also allowed for faster development as it empowered the development team to implement the business logic with the best solution rather than what was decided in the requirements. -->
+
+- **_Technologies used:_** ASP.NET Core 6 Web API, C#, Docker, Node.js, Azure, Pipelines
+  <br><br>
 
 **Analyst Programmer** @ [Tessella](https://www.tessella.com/) _(Sep 2019 - Nov 2021)_ <br>
-_Tech consultancy now Hybrid Intelligence in Capgemini Engineering_
+Tech consultancy now at [Hybrid Intelligence in Capegemini Engineering](https://www.capgemini.com/gb-en/solutions/data-driven-rd-engineering-manufacturing-operations/).
 
 Worked on multiple projects, both support and development, running in parallel with 5+ clients in several domains such as Oil and Gas,
-Pharmaceutical, and consumer goods
-- Communicated directly with stakeholders to understand requirements and use cases to generate user stories and estimates
+Pharmaceutical and consumer goods
+
+**Responsibilities:**
+
+- Communicated directly with stake holders to understand requirements and use cases to generate user stories and estimates
 - Developed new features and enhancements to current products to support client needs
 - Took responsibility for deployment to multiple environments by using Continuous Integration tools such as TeamCity and Azure DevOps
-- Developed Python and R packages that enabled the client to ingest data and conduct analysis on a bespoke data platform
+- Took initiative to improve code base throughout development to reduce technical debt
+- Developed Python and R packages which enabled client to ingest data and conduct analysis on a bespoke data platform
+
 - Created Power Apps to allow client ease of data entry in remote areas
-
-**Technologies used:** C#, Python, R, Docker, JavaScript, SQL Server, MySQL, Azure, Power Apps, Power Automate, AWS
-<br><br>
-
-## 🥽Personal Projects
-### 🚗 [Whiplog](https://whiplog.azurewebsites.net/)
-
-Whiplog is the ultimate tool for managing your vehicle's road tax, MOT, and insurance. Simply create an account, add your vehicle's registration number, and we'll fetch and store the current road tax and MOT status for each car. You can also add insurance details and set up reminders for when your tax, MOT, and insurance expire.
-
-I am using Django to create this website and will be hosting it on Azure. Currently the website is only capable of fetching the tax and mot status but more features are coming soon!
-<br><br>
-
-
-## 👨🏽‍🎓 Education
-
-**MMath&Phys(Hons)** in Mathematics and Physics (_First class_) <br>
-_[University of Manchester](https://www.manchester.ac.uk/) - Manchester, UK (2015 - 2019)_ <br>
-**Masters Project**: _Modelling the internal flow of an immiscible droplet subject to a shear flow._
-
-In this project, I developed an algorithm in MATLAB to analyze 20,000 images obtained from an experiment. I also formulated a mathematical model for the fluid flow, including surfactant kinematics, to simulate experimental results. My work on this project recognized the direct impact on fluid flow applications concerning Superhydrophobic surfaces and decontamination processes.
-<br><br>
+- **_Technologies used:_** C#, Python, R, Docker, JavaScript, SQL Server, MySQL, Docker, Azure, Power Apps, Power Automate, AWS
 
 ## 💬 Languages
 
@@ -57,6 +62,12 @@ In this project, I developed an algorithm in MATLAB to analyze 20,000 images obt
 **Punjabi**: Native
 <br><br>
 
-## 🏀✈️ Hobbies & Interest
-In my free time, I love to play sports and travel.
+## 👨🏽‍🎓 Education
 
+**MMath&Phys(Hons)** in Mathematics and Physics (_First class_) <br>
+[University of Manchester](https://www.manchester.ac.uk/) - Manchester, UK _(2015 - 2019)_ <br>
+**Masters Project** (75%): _Modelling internal flow of an immiscible droplet subject to a shear flow._
+
+- Developed an algorithm in MATLAB to analyse 20,000 images obtained from experiment
+- Formulated a mathematical model for the fluid flow including surfactant kinematics to simulate experimental results
+- Recognised the direct impact on fluid flow applications concerning Superhydrophobic surfaces and decontamination processes
