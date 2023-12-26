@@ -1,13 +1,14 @@
 # Muhammad Usama
 
-_Software developer based in Manchester_
+_I'm a software developer based in Manchester with a solid background in .NET Core C#, Python, and data
+analytics. Over my career at OutThink, Pets at Home, and Tessella, I've honed my skills in implementing TestDriven Development (TDD) and adhering to SOLID principles, allowing me to thrive in fast release cycles. I'm
+enthusiastic about technology, always eager to learn, and ready to contribute my expertise to exciting projects._
 
 [Email](mailto:muhammadusama02@hotmail.co.uk) / [Website](https://usamaa9.github.io/) / [LinkedIn](https://www.linkedin.com/in/mh-usama/) / [GitHub](https://github.com/usamaa9/)
 
 ## 👨🏽‍💻 Experience
 
-**Software Engineer** @ [Outthink](https://outthink.io/) _(March 2023 - Present)_
-
+**Software Engineer** @ [Outthink](https://outthink.io/) _(March 2023 - Present)_ <br>
 OutThink revolutionises security awareness training by using data science and machine learning to measure human risk, automate improvement actions, and deliver targeted training and phishing simulations, based on employees' attitudes and security behaviours.
 
 Working on multiple projects spanning backend systems and data analytics using .NET and python.
