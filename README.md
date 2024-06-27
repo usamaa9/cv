@@ -13,7 +13,11 @@ OutThink revolutionises security awareness training by using data science and ma
 
 Working on multiple projects spanning backend systems and data analytics using .NET and python.
 
-- **_Technologies used:_** ASP.NET Core 6 Web API, C#, Python, Azure Synapse, ADLS
+Helping in DevOps to move microservice infrastructure to Azure Kubernetes Services (AKS).
+
+Helping with setting up Automation testing to improve the QA process.
+
+- **_Technologies used:_** ASP.NET Core 6 Web API, C#, Python, Azure, Docker, Kubernetes
   <br><br>
 
 **Services developer** @ [Pets at Home](https://www.petsathome.com/) _(Nov 2021 - March 2023)_ <br>
@@ -25,7 +29,7 @@ Taking ownership of enterprise-level internal systems to provide a unique identi
 
 - Developing APIs for providing customer and product data to the rest of the business
 
-- Developing intermediate APIs which handle all of the orchestration and combining of different data sources and APIs for the front end team so they only need to talk to one API for all their requirements
+- Developed Backend-for-Frontend (BFF) APIs which handle all of the orchestration and combining of different data sources and APIs for the front end team so they only need to talk to one API for all their requirements
 
 - Building and maintaining common projects so the rest of the back-end teams can quickly set up new APIs with the right enterprise standards
 
