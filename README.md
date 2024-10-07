@@ -8,16 +8,16 @@ enthusiastic about technology, always eager to learn, and ready to contribute my
 
 ## 👨🏽‍💻 Experience
 
-**Software Engineer** @ [Outthink](https://outthink.io/) _(March 2023 - Present)_ <br>
+**Senior Software Engineer** @ [Outthink](https://outthink.io/) _(March 2023 - Present)_ <br>
 OutThink revolutionises security awareness training by using data science and machine learning to measure human risk, automate improvement actions, and deliver targeted training and phishing simulations, based on employees' attitudes and security behaviours.
 
-Working on multiple projects spanning backend systems and data analytics using .NET and python.
+Working on multiple projects spanning backend systems and data analytics using .NET, python and Azure.
 
 Helping in DevOps to move microservice infrastructure to Azure Kubernetes Services (AKS).
 
 Helping with setting up Automation testing to improve the QA process.
 
-- **_Technologies used:_** ASP.NET Core 6 Web API, C#, Python, Azure, Docker, Kubernetes
+- **_Technologies used:_** ASP.NET Core 6 Web API, C#, CQRS, Python, Azure, Service Bus, Docker, Kubernetes
   <br><br>
 
 **Services developer** @ [Pets at Home](https://www.petsathome.com/) _(Nov 2021 - March 2023)_ <br>
