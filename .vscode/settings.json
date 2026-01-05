@@ -1,6 +1,3 @@
 {
-  "cSpell.enabledFileTypes": {
-    "markdown": true
-  },
-  "cSpell.checkOnlyEnabledFileTypes": true
+  "markdown-pdf.displayHeaderFooter": false
 }
