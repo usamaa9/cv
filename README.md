@@ -6,7 +6,6 @@ passion for Test Driven Development (TDD) and SOLID principles, I consistently a
 solutions with strategic business goals to deliver measurable impact. My results-driven
 approach has led to substantial improvements in performance and user engagement. I am open
 to hybrid roles in Manchester or fully remote opportunities.\
-
 Email: <muhammadusama02@hotmail.co.uk>\
 LinkedIn: [mh-usama](http://www.linkedin.com/in/mh-usama)
 
