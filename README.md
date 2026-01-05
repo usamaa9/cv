@@ -1,4 +1,4 @@
-# Muhammad Usama
+## Muhammad Usama
 
 I am a software engineer based in Manchester with 6+ years of proven expertise in designing
 and delivering scalable, data-driven solutions using .NET Core, C#, Python, and Azure. With a
@@ -38,7 +38,6 @@ Key Contributions
 
 <div style="page-break-after: always;"></div>
 
-
 ### **Services Developer** @ [Pets at Home](https://www.petsathome.com/) (Nov 2021 - March 2023)
 
 Pets at Home is the UK's foremost pet care provider, offering food, grooming, and veterinary services through a comprehensive business ecosystem.
@@ -53,8 +52,6 @@ Key Contributions
 - Advocated for a transition from solution-driven to business-driven requirements, ensuring alignment with overarching business objectives.
 
 _**Tools:** .NET Core 6, CosmosDB, Docker, Node.js, Azure, Azure DevOps_
-
----
 
 ### **Analyst Programmer** @ [Tessella](https://www.tessella.com/) (Sep 2019 - Nov 2021)
 
