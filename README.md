@@ -11,8 +11,8 @@ LinkedIn: [mh-usama](http://www.linkedin.com/in/mh-usama)
 
 ## Technical Skills
 
-• **Programming Languages**: Go,C#, Python\
-• **Frameworks & Technologies**: .NET Core, Azure, AWS, Kubernetes, Redis, Docker, Kafka
+• **Programming Languages**: Go, C#, Python\
+• **Frameworks & Technologies**: .NET Core, Azure, AWS, Kubernetes, Redis, Docker, Kafka,
 OpenAI, LLMs, LangChain\
 • **Databases**: SQL Server, CosmosDB, MySQL, Cassandra\
 • **Practices & Methodologies**: Test-Driven Development (TDD), SOLID, Domain-Driven Design
