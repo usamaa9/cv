@@ -11,16 +11,19 @@ LinkedIn: [mh-usama](http://www.linkedin.com/in/mh-usama)
 
 ## Technical Skills
 
-• **Programming Languages**: C#, Python\
-• **Frameworks & Technologies**: .NET Core 6+, Azure, AWS, Kubernetes, Redis, Docker,
+• **Programming Languages**: Go,C#, Python\
+• **Frameworks & Technologies**: .NET Core, Azure, AWS, Kubernetes, Redis, Docker, Kafka
 OpenAI, LLMs, LangChain\
-• **Databases**: SQL Server, CosmosDB, MySQL\
+• **Databases**: SQL Server, CosmosDB, MySQL, Cassandra\
 • **Practices & Methodologies**: Test-Driven Development (TDD), SOLID, Domain-Driven Design
 (DDD), Event-Driven Design (EDD), CQRS, Mediator, Agile
 
 ## Professional Experience
 
-### **Senior Software Engineer** @ [OutThink](https://outthink.io/) (March 2023 - Present)
+### **Software Engineer** @ [Monzo](https://monzo.com) (April 2026 - Present)
+
+
+### **Senior Software Engineer** @ [OutThink](https://outthink.io/) (March 2023 - March 2026)
 
 OutThink revolutionises security awareness training by leveraging data science and AI to
 quantify human risk and deliver personalised training and phishing simulations tailored to
