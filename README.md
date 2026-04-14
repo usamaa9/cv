@@ -1,77 +1,64 @@
-## Muhammad Usama
+# Muhammad Usama
 
-I am a software engineer based in Manchester with 6+ years of proven expertise in designing
-and delivering scalable, data-driven solutions using .NET Core, C#, Python, and Azure. With a
-passion for Test Driven Development (TDD) and SOLID principles, I consistently align technical
-solutions with strategic business goals to deliver measurable impact. My results-driven
-approach has led to substantial improvements in performance and user engagement. I am open
-to hybrid roles in Manchester or fully remote opportunities.\
-Email: <muhammadusama02@hotmail.co.uk>\
-LinkedIn: [mh-usama](http://www.linkedin.com/in/mh-usama)
+Backend Engineer with 6+ years building scalable, data-driven systems across fintech and cybersecurity. Strong focus on simplicity, reliability, and real-world impact.
 
-## Technical Skills
+📍 Manchester (open to hybrid / remote)  
+📧 muhammadusama02@hotmail.co.uk  
+🔗 https://www.linkedin.com/in/mh-usama  
 
-• **Programming Languages**: Go, C#, Python\
-• **Frameworks & Technologies**: .NET Core, Azure, AWS, Kubernetes, Redis, Docker, Kafka,
-OpenAI, LLMs, LangChain\
-• **Databases**: SQL Server, CosmosDB, MySQL, Cassandra\
-• **Practices & Methodologies**: Test-Driven Development (TDD), SOLID, Domain-Driven Design
-(DDD), Event-Driven Design (EDD), CQRS, Mediator, Agile
+---
 
-## Professional Experience
+## Tech
 
-### **Software Engineer** @ [Monzo](https://monzo.com) (April 2026 - Present)
+**Languages:** Go, C#, Python  
+**Platforms:** .NET, Azure, AWS, Kubernetes, Docker, Redis, Kafka  
+**Data:** SQL Server, CosmosDB, MySQL, Cassandra  
+**Other:** OpenAI, LLMs, LangChain  
 
+---
 
-### **Senior Software Engineer** @ [OutThink](https://outthink.io/) (March 2023 - March 2026)
+## Experience
 
-OutThink revolutionises security awareness training by leveraging data science and AI to
-quantify human risk and deliver personalised training and phishing simulations tailored to
-employee behaviours.
+### Software Engineer — Monzo  
+*Apr 2026 – Present*
 
-Key Contributions
+- Building distributed backend systems in Go at scale  
+- Designing reliable, observable services in a high-traffic environment  
+- Shipping incremental, high-impact product improvements  
 
-- **Led the development of the Real-Time Threats feature**, enabling clients to instantly convert real phishing emails into tailored training content and simulations using LangChain and OpenAI. This innovation directly contributed to securing three new enterprise clients.
-- **Led the development of the Role-based Training feature**, achieving a 30% increase in user engagement compared to generic modules.
-- **Redesigned the feedback pipeline**  to make it more reliable and observable, supporting increased loads while reducing system downtime and enhancing responsiveness for administrators.
-- **Integrated Large Language Models (LLMs)** using Azure OpenAI & LangChain, significantly improving content relevance and personalization.
-- **Optimised platform resilience** through resolving critical issues, rigorous implementation of unit tests, and proactive technical debt reduction, significantly decreasing debugging efforts.
-- **Migrated microservice infrastructure to Azure Kubernetes Services (AKS)**, enhancing deployment efficiency by 10x.
-- **Enhanced QA processes** by implementing automation and integration testing, enabling teams to focus on complex edge cases effectively.
+---
 
-<div style="page-break-after: always;"></div>
+### Senior Software Engineer — OutThink  
+*Mar 2023 – Mar 2026*
 
-### **Services Developer** @ [Pets at Home](https://www.petsathome.com/) (Nov 2021 - March 2023)
+- Built real-time phishing → training pipeline using LLMs (won 3 enterprise clients)  
+- Led role-based training system → **+30% user engagement**  
+- Redesigned feedback pipeline → improved reliability + observability  
+- Integrated Azure OpenAI + LangChain for personalised content  
+- Migrated services to AKS → **10x faster deployments**  
+- Improved system stability through testing and tech debt reduction  
 
-Pets at Home is the UK's foremost pet care provider, offering food, grooming, and veterinary services through a comprehensive business ecosystem.
+---
 
-Key Contributions
+### Services Developer — Pets at Home  
+*Nov 2021 – Mar 2023*
 
-- Managed enterprise-grade internal systems, establishing unique identifiers for customers and products, and setting enterprise standards for API and service development.
-- Designed and implemented Backend-for-Frontend (BFF) APIs, simplifying data orchestration for front-end teams.
-- Built and maintained core projects, expediting API development through pre-configured enterprise standards.
-- Developed an Azure DevOps pipeline to automate the build, test, and publishing processes, enhancing deployment consistency.
-- Containerised front-end applications using Docker, integrating CI pipelines with tools like [Cypress](https://www.cypress.io/) and [Lighthouse](https://github.com/GoogleChrome/lighthouse#readme).
-- Advocated for a transition from solution-driven to business-driven requirements, ensuring alignment with overarching business objectives.
+- Built backend services and BFF APIs for frontend teams  
+- Defined reusable API and service patterns  
+- Implemented CI/CD pipelines and containerised applications  
 
-_**Tools:** .NET Core 6, CosmosDB, Docker, Node.js, Azure, Azure DevOps_
+---
 
-### **Analyst Programmer** @ [Tessella](https://www.tessella.com/) (Sep 2019 - Nov 2021)
+### Analyst Programmer — Tessella (Capgemini Engineering)  
+*Sep 2019 – Nov 2021*
 
-Tessella, now part of Capgemini Engineering, specialises in delivering data-driven R&D solutions across industries such as Oil and Gas, Pharmaceuticals, and Consumer Goods.
-
-#### Key Contributions
-
-- Collaborated with stakeholders to elicit requirements, define user stories, and provide accurate development estimates.
-- Developed and enhanced software solutions tailored to client-specific needs, maintaining high-quality standards.
-- Proactively refactored legacy codebases to mitigate technical debt and enhance maintainability.
-- Built Power Apps for efficient data entry in remote field operations, streamlining workflows.
-
-_**Tools:** C#, Python, R, Docker, JavaScript, SQL Server, MySQL, Azure, Power Apps, Power Automate_
+- Delivered data-driven software across multiple industries  
+- Refactored legacy systems to improve maintainability  
+- Worked with stakeholders to define requirements and solutions  
 
 ---
 
 ## Education
 
-**MMath&Phys (Hons)** in Mathematics and Physics - Grade: First\
-University of Manchester - Manchester, UK (2015 - 2019)
+**MMath & Physics (First Class Honours)**  
+University of Manchester  
